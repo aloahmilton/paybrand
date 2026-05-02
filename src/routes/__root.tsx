@@ -29,20 +29,24 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { title: "paybrand — React payment & bank logo library" },
+      {
+        name: "description",
+        content:
+          "Open source React component library of bank, mobile money and card payment logos from Africa, Europe, Asia and the Americas.",
+      },
+      { name: "author", content: "@aloahmilton" },
+      { property: "og:title", content: "paybrand — React payment & bank logo library" },
+      {
+        property: "og:description",
+        content: "Tree-shakable React logos for banks, mobile money and card networks worldwide.",
+      },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
-      { name: "twitter:site", content: "@Lovable" },
     ],
     links: [
-      {
-        rel: "stylesheet",
-        href: appCss,
-      },
+      { rel: "stylesheet", href: appCss },
+      { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
     ],
   }),
   shellComponent: RootShell,
