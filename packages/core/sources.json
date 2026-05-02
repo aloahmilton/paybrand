@@ -1,0 +1,194 @@
+[
+  {
+    "id": "orange-money",
+    "svgPath": "mobile-money/orange-money.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "orange",
+    "sourceUrl": "https://brand.orange.com",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "airtel-money",
+    "svgPath": "mobile-money/airtel-money.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "airtel",
+    "sourceUrl": "https://www.airtel.in/logo-tune",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "deutsche-bank",
+    "svgPath": "banks/europe/deutsche-bank.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "deutschebank",
+    "sourceUrl": "https://www.db.com",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "barclays",
+    "svgPath": "banks/europe/barclays.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "barclays",
+    "sourceUrl": "https://home.barclays",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "hsbc",
+    "svgPath": "banks/europe/hsbc.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "hsbc",
+    "sourceUrl": "https://www.hsbc.com",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "bank-of-america",
+    "svgPath": "banks/americas/bank-of-america.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "bankofamerica",
+    "sourceUrl": "https://www.bankofamerica.com",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "chase",
+    "svgPath": "banks/americas/chase.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "chase",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chase_logo_2007.svg",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "wells-fargo",
+    "svgPath": "banks/americas/wells-fargo.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "wellsfargo",
+    "sourceUrl": "https://www.wellsfargo.com/about",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "nubank",
+    "svgPath": "banks/americas/nubank.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "nubank",
+    "sourceUrl": "https://nubank.com.br/en/press/",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "hdfc",
+    "svgPath": "banks/asia/hdfc.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "hdfcbank",
+    "sourceUrl": "https://www.hdfcsales.com",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "icici",
+    "svgPath": "banks/asia/icici.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "icicibank",
+    "sourceUrl": "https://www.icicibank.com/ms/aboutus/annual-reports/2022-23/icici/assets/images/home-page/logo.svg",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "paytm",
+    "svgPath": "wallets/paytm.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "paytm",
+    "sourceUrl": "https://paytm.com",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "grabpay",
+    "svgPath": "wallets/grabpay.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "grab",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Grab_(application)_logo.svg",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "visa",
+    "svgPath": "cards/visa.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "visa",
+    "sourceUrl": "https://merchantsignageeu.visa.com/product.asp?dptID=696",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "mastercard",
+    "svgPath": "cards/mastercard.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "mastercard",
+    "sourceUrl": "https://www.mastercard.com/brandcenter/us/en/download-artwork.html",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "amex",
+    "svgPath": "cards/amex.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "americanexpress",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:American_Express_logo_(2018).svg",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "apple-pay",
+    "svgPath": "wallets/apple-pay.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "applepay",
+    "sourceUrl": "https://developer.apple.com/apple-pay/marketing",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "google-pay",
+    "svgPath": "wallets/google-pay.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "googlepay",
+    "sourceUrl": "https://pay.google.com/intl/en_us/about/",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "paypal",
+    "svgPath": "wallets/paypal.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "paypal",
+    "sourceUrl": "https://www.paypal.com/us",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "stripe",
+    "svgPath": "wallets/stripe.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "stripe",
+    "sourceUrl": "https://stripe.com/newsroom/information",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "klarna",
+    "svgPath": "wallets/klarna.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "klarna",
+    "sourceUrl": "https://klarna.design",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "afterpay",
+    "svgPath": "wallets/afterpay.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "afterpay",
+    "sourceUrl": "https://www.afterpay.com/en-AU/business/resources/marketing/logos",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "revolut",
+    "svgPath": "wallets/revolut.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "revolut",
+    "sourceUrl": "https://developer.revolut.com/docs/resources/marketing-assets-guidelines/marketing-guidelines",
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "wise",
+    "svgPath": "wallets/wise.svg",
+    "source": "Simple Icons",
+    "sourceSlug": "wise",
+    "sourceUrl": "https://wise.design/foundations/logo",
+    "license": "CC0-1.0"
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "name": "paybrand",
+  "version": "0.1.0",
+  "description": "React payment & bank logo library — Africa, Europe, Asia, Americas",
+  "author": "aloahmilton",
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/types/index.d.ts",
+  "files": ["dist", "svgs"],
+  "keywords": [
+    "payment",
+    "logos",
+    "react",
+    "mpesa",
+    "visa",
+    "mastercard",
+    "africa",
+    "mobile-money",
+    "bank-logos",
+    "fintech",
+    "paybrand",
+    "mtn-momo",
+    "gtbank"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aloahmilton/paybrand"
+  },
+  "homepage": "https://github.com/aloahmilton/paybrand#readme",
+  "bugs": {
+    "url": "https://github.com/aloahmilton/paybrand/issues"
+  },
+  "scripts": {
+    "build": "node ../../scripts/prepare-package.mjs && rollup -c"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^29.0.0",
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-node-resolve": "^16.0.3",
+    "@rollup/plugin-typescript": "^12.3.0",
+    "rollup": "^4.52.5",
+    "tslib": "^2.8.1",
+    "typescript": "^5.8.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
