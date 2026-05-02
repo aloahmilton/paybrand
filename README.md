@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <svg width="120" height="120" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
@@ -41,7 +40,7 @@ Every other payment logo library is Western-centric. **paybrand** is the first l
 
 ## Installation
 
-```bash
+
 # npm
 npm install paybrand
 
@@ -69,9 +68,8 @@ export default function CheckoutPage() {
     </div>
   )
 }
-```
 
----
+
 
 ## Components
 
@@ -91,7 +89,6 @@ import { PayLogo } from 'paybrand'
   style={{}}         // inline styles
   title="M-Pesa"     // overrides auto aria-label
 />
-```
 
 | Prop | Type | Default | Description |
 |------|------|---------|-------------|
@@ -248,13 +245,13 @@ Contributions are welcome! Adding a new logo takes less than 5 minutes.
 
 Read the full [Contributing Guide →](./CONTRIBUTING.md)
 
----
+
 
 ## License
 
 MIT © [aloahmilton](https://github.com/aloahmilton)
 
----
+
 
 <div align="center">
 
