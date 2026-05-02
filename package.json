@@ -18,6 +18,9 @@
     "build:dev": "vite build --mode development",
     "preview": "vite preview",
     "logos:import": "node scripts/import-simple-icons.mjs",
+    "logos:sync": "node scripts/sync-logo-metadata.mjs",
+    "types:generate": "node scripts/generate-types.mjs",
+    "catalog:validate": "node scripts/validate-catalog.mjs",
     "lint": "eslint .",
     "format": "prettier --write ."
   },

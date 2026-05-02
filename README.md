@@ -90,6 +90,7 @@ import {
   getByCountry,
   getByRegion,
   getByCategory,
+  getAvailableLogos,
   searchLogos,
 } from 'paybrand'
 ```
@@ -100,6 +101,7 @@ const banks = getAllBanks()
 const nigerian = getByCountry('NG')
 const african = getByRegion('africa')
 const wallets = getByCategory('wallet')
+const available = getAvailableLogos()
 const results = searchLogos('mpesa')
 ```
 
@@ -116,6 +118,8 @@ SVGs are published with the npm package and can be loaded from jsDelivr:
 ## Logo Coverage
 
 The catalog starts with 86 typed entries across mobile money, banks, cards, and wallets. The first seeded SVG batch comes from open source sources where exact matches are available, and the remaining catalog entries are ready for community contributions.
+
+Use `getAvailableLogos()` when you only want entries that currently have a packaged SVG asset.
 
 | Region | Banks | Mobile Money | Cards & Wallets |
 | --- | ---: | ---: | ---: |
@@ -138,6 +142,9 @@ See [ATTRIBUTION.md](./ATTRIBUTION.md) for source and trademark notes.
 ```sh
 npm install
 npm run logos:import
+npm run logos:sync
+npm run types:generate
+npm run catalog:validate
 npm run build --workspace=packages/react
 npx tsc --noEmit
 ```

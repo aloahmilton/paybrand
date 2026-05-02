@@ -1,0 +1,48 @@
+name: Logo request
+description: Request a payment, wallet, mobile money, or bank logo.
+title: "Logo request: "
+labels: ["logo request"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Brand name
+      description: Official brand or product name.
+      placeholder: M-Pesa
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Official website
+      description: Link to the brand or bank website.
+      placeholder: https://www.example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - bank
+        - mobile-money
+        - card
+        - wallet
+    validations:
+      required: true
+  - type: input
+    id: country
+    attributes:
+      label: Country
+      description: ISO 3166-1 alpha-2 country code, or the primary market.
+      placeholder: KE
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: SVG source
+      description: Link to an official brand asset page or an open source SVG with a compatible license.
+      placeholder: https://...
+    validations:
+      required: false

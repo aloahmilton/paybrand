@@ -5,9 +5,13 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "KE",
-    "aliases": ["m-pesa", "mpesa", "safaricom"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "m-pesa",
+      "mpesa",
+      "safaricom"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "mobile-money/mpesa.svg"
   },
@@ -17,9 +21,13 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "GH",
-    "aliases": ["mtn momo", "mtn mobile money", "momo"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "mtn momo",
+      "mtn mobile money",
+      "momo"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "mobile-money/mtn-momo.svg"
   },
@@ -29,7 +37,11 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "CI",
-    "aliases": ["orange money", "orange", "om"],
+    "aliases": [
+      "orange money",
+      "orange",
+      "om"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -41,9 +53,12 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "SN",
-    "aliases": ["wave", "wave money"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "wave",
+      "wave money"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "mobile-money/wave.svg"
   },
@@ -53,7 +68,11 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "UG",
-    "aliases": ["airtel money", "airtel", "airtel africa"],
+    "aliases": [
+      "airtel money",
+      "airtel",
+      "airtel africa"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -65,9 +84,13 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "BJ",
-    "aliases": ["moov money", "moov", "moov africa"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "moov money",
+      "moov",
+      "moov africa"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "mobile-money/moov-money.svg"
   },
@@ -77,9 +100,13 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "SN",
-    "aliases": ["free money", "free senegal", "free"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "free money",
+      "free senegal",
+      "free"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "mobile-money/free-money.svg"
   },
@@ -89,9 +116,13 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "TZ",
-    "aliases": ["tigo pesa", "tigo", "millicom"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "tigo pesa",
+      "tigo",
+      "millicom"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "mobile-money/tigo-pesa.svg"
   },
@@ -101,9 +132,12 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "ZW",
-    "aliases": ["ecocash", "econet"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "ecocash",
+      "econet"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "mobile-money/ecocash.svg"
   },
@@ -113,9 +147,13 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "ZM",
-    "aliases": ["zamtel", "zamtel money", "zambia telecom"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "zamtel",
+      "zamtel money",
+      "zambia telecom"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "mobile-money/zamtel.svg"
   },
@@ -125,9 +163,12 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "GH",
-    "aliases": ["mobicash", "mobi cash"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "mobicash",
+      "mobi cash"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "mobile-money/mobicash.svg"
   },
@@ -137,9 +178,13 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "RW",
-    "aliases": ["momo rwanda", "mtn rwanda", "mobile money rwanda"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "momo rwanda",
+      "mtn rwanda",
+      "mobile money rwanda"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "mobile-money/momo-rwanda.svg"
   },
@@ -149,9 +194,13 @@
     "category": "mobile-money",
     "region": "africa",
     "country": "SS",
-    "aliases": ["m-gurush", "mgurush", "m gurush"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "m-gurush",
+      "mgurush",
+      "m gurush"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "mobile-money/m-gurush.svg"
   },
@@ -161,9 +210,13 @@
     "category": "bank",
     "region": "africa",
     "country": "NG",
-    "aliases": ["gtbank", "guaranty trust bank", "gtco"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "gtbank",
+      "guaranty trust bank",
+      "gtco"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/gtbank.svg"
   },
@@ -173,9 +226,12 @@
     "category": "bank",
     "region": "africa",
     "country": "NG",
-    "aliases": ["zenith bank", "zenith"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "zenith bank",
+      "zenith"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/zenith-bank.svg"
   },
@@ -185,9 +241,12 @@
     "category": "bank",
     "region": "africa",
     "country": "NG",
-    "aliases": ["access bank", "access"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "access bank",
+      "access"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/access-bank.svg"
   },
@@ -197,9 +256,12 @@
     "category": "bank",
     "region": "africa",
     "country": "NG",
-    "aliases": ["uba", "united bank for africa"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "uba",
+      "united bank for africa"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/uba.svg"
   },
@@ -209,9 +271,13 @@
     "category": "bank",
     "region": "africa",
     "country": "NG",
-    "aliases": ["first bank", "first bank nigeria", "fbn"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "first bank",
+      "first bank nigeria",
+      "fbn"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/first-bank-ng.svg"
   },
@@ -221,9 +287,13 @@
     "category": "bank",
     "region": "africa",
     "country": "KE",
-    "aliases": ["equity bank", "equity bank kenya", "equity"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "equity bank",
+      "equity bank kenya",
+      "equity"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/equity-bank-ke.svg"
   },
@@ -233,9 +303,12 @@
     "category": "bank",
     "region": "africa",
     "country": "KE",
-    "aliases": ["kcb", "kenya commercial bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "kcb",
+      "kenya commercial bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/kcb.svg"
   },
@@ -245,9 +318,12 @@
     "category": "bank",
     "region": "africa",
     "country": "TG",
-    "aliases": ["ecobank", "eco bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "ecobank",
+      "eco bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/ecobank.svg"
   },
@@ -257,9 +333,12 @@
     "category": "bank",
     "region": "africa",
     "country": "ZA",
-    "aliases": ["standard bank", "standard bank group"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "standard bank",
+      "standard bank group"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/standard-bank.svg"
   },
@@ -269,9 +348,12 @@
     "category": "bank",
     "region": "africa",
     "country": "ZA",
-    "aliases": ["absa", "absa bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "absa",
+      "absa bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/absa.svg"
   },
@@ -281,9 +363,12 @@
     "category": "bank",
     "region": "africa",
     "country": "ZA",
-    "aliases": ["capitec", "capitec bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "capitec",
+      "capitec bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/capitec.svg"
   },
@@ -293,9 +378,12 @@
     "category": "bank",
     "region": "africa",
     "country": "ZA",
-    "aliases": ["fnb", "first national bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "fnb",
+      "first national bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/fnb.svg"
   },
@@ -305,9 +393,12 @@
     "category": "bank",
     "region": "africa",
     "country": "ZA",
-    "aliases": ["nedbank", "ned bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "nedbank",
+      "ned bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/nedbank.svg"
   },
@@ -317,9 +408,13 @@
     "category": "bank",
     "region": "africa",
     "country": "EG",
-    "aliases": ["cib", "commercial international bank", "cib egypt"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "cib",
+      "commercial international bank",
+      "cib egypt"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/cib-egypt.svg"
   },
@@ -329,9 +424,13 @@
     "category": "bank",
     "region": "africa",
     "country": "MA",
-    "aliases": ["attijariwafa", "attijariwafa bank", "attijari"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "attijariwafa",
+      "attijariwafa bank",
+      "attijari"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/attijariwafa.svg"
   },
@@ -341,9 +440,13 @@
     "category": "bank",
     "region": "africa",
     "country": "MA",
-    "aliases": ["bcp morocco", "banque populaire", "bcp"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "bcp morocco",
+      "banque populaire",
+      "bcp"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/bcp-morocco.svg"
   },
@@ -353,9 +456,12 @@
     "category": "bank",
     "region": "africa",
     "country": "UG",
-    "aliases": ["stanbic", "stanbic bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "stanbic",
+      "stanbic bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/africa/stanbic.svg"
   },
@@ -365,9 +471,12 @@
     "category": "bank",
     "region": "europe",
     "country": "FR",
-    "aliases": ["bnp paribas", "bnp"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "bnp paribas",
+      "bnp"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/bnp-paribas.svg"
   },
@@ -377,9 +486,13 @@
     "category": "bank",
     "region": "europe",
     "country": "FR",
-    "aliases": ["societe generale", "socgen", "sg"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "societe generale",
+      "socgen",
+      "sg"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/societe-generale.svg"
   },
@@ -389,9 +502,12 @@
     "category": "bank",
     "region": "europe",
     "country": "FR",
-    "aliases": ["credit agricole", "credit-agricole"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "credit agricole",
+      "credit-agricole"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/credit-agricole.svg"
   },
@@ -401,7 +517,10 @@
     "category": "bank",
     "region": "europe",
     "country": "DE",
-    "aliases": ["deutsche bank", "deutsche"],
+    "aliases": [
+      "deutsche bank",
+      "deutsche"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -413,9 +532,12 @@
     "category": "bank",
     "region": "europe",
     "country": "ES",
-    "aliases": ["santander", "banco santander"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "santander",
+      "banco santander"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/santander.svg"
   },
@@ -425,9 +547,12 @@
     "category": "bank",
     "region": "europe",
     "country": "ES",
-    "aliases": ["bbva", "banco bilbao vizcaya argentaria"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "bbva",
+      "banco bilbao vizcaya argentaria"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/bbva.svg"
   },
@@ -437,9 +562,12 @@
     "category": "bank",
     "region": "europe",
     "country": "NL",
-    "aliases": ["ing", "ing bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "ing",
+      "ing bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/ing.svg"
   },
@@ -449,9 +577,12 @@
     "category": "bank",
     "region": "europe",
     "country": "NL",
-    "aliases": ["rabobank", "rabo bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "rabobank",
+      "rabo bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/rabobank.svg"
   },
@@ -461,9 +592,12 @@
     "category": "bank",
     "region": "europe",
     "country": "NL",
-    "aliases": ["abn amro", "abn-amro"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "abn amro",
+      "abn-amro"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/abn-amro.svg"
   },
@@ -473,7 +607,10 @@
     "category": "bank",
     "region": "europe",
     "country": "GB",
-    "aliases": ["barclays", "barclays bank"],
+    "aliases": [
+      "barclays",
+      "barclays bank"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -485,7 +622,10 @@
     "category": "bank",
     "region": "europe",
     "country": "GB",
-    "aliases": ["hsbc", "hongkong and shanghai banking corporation"],
+    "aliases": [
+      "hsbc",
+      "hongkong and shanghai banking corporation"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -497,9 +637,12 @@
     "category": "bank",
     "region": "europe",
     "country": "GB",
-    "aliases": ["natwest", "national westminster bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "natwest",
+      "national westminster bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/natwest.svg"
   },
@@ -509,9 +652,12 @@
     "category": "bank",
     "region": "europe",
     "country": "GB",
-    "aliases": ["lloyds", "lloyds bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "lloyds",
+      "lloyds bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/lloyds.svg"
   },
@@ -521,9 +667,12 @@
     "category": "bank",
     "region": "europe",
     "country": "IT",
-    "aliases": ["unicredit", "uni credit"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "unicredit",
+      "uni credit"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/unicredit.svg"
   },
@@ -533,9 +682,13 @@
     "category": "bank",
     "region": "europe",
     "country": "IT",
-    "aliases": ["intesa sanpaolo", "intesa", "sanpaolo"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "intesa sanpaolo",
+      "intesa",
+      "sanpaolo"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/europe/intesa-sanpaolo.svg"
   },
@@ -545,7 +698,11 @@
     "category": "bank",
     "region": "americas",
     "country": "US",
-    "aliases": ["bank of america", "boa", "bofa"],
+    "aliases": [
+      "bank of america",
+      "boa",
+      "bofa"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -557,7 +714,11 @@
     "category": "bank",
     "region": "americas",
     "country": "US",
-    "aliases": ["chase", "jpmorgan chase", "jp morgan chase"],
+    "aliases": [
+      "chase",
+      "jpmorgan chase",
+      "jp morgan chase"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -569,7 +730,10 @@
     "category": "bank",
     "region": "americas",
     "country": "US",
-    "aliases": ["wells fargo", "wells-fargo"],
+    "aliases": [
+      "wells fargo",
+      "wells-fargo"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -581,9 +745,13 @@
     "category": "bank",
     "region": "americas",
     "country": "US",
-    "aliases": ["citibank", "citi", "citigroup"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "citibank",
+      "citi",
+      "citigroup"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/americas/citibank.svg"
   },
@@ -593,7 +761,11 @@
     "category": "bank",
     "region": "americas",
     "country": "BR",
-    "aliases": ["nubank", "nu bank", "nu"],
+    "aliases": [
+      "nubank",
+      "nu bank",
+      "nu"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -605,9 +777,12 @@
     "category": "bank",
     "region": "americas",
     "country": "BR",
-    "aliases": ["itau", "itau unibanco"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "itau",
+      "itau unibanco"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/americas/itau.svg"
   },
@@ -617,9 +792,12 @@
     "category": "bank",
     "region": "americas",
     "country": "BR",
-    "aliases": ["bradesco", "banco bradesco"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "bradesco",
+      "banco bradesco"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/americas/bradesco.svg"
   },
@@ -629,9 +807,12 @@
     "category": "bank",
     "region": "americas",
     "country": "CO",
-    "aliases": ["bancolombia", "banco colombia"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "bancolombia",
+      "banco colombia"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/americas/bancolombia.svg"
   },
@@ -641,9 +822,12 @@
     "category": "bank",
     "region": "americas",
     "country": "CO",
-    "aliases": ["davivienda", "banco davivienda"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "davivienda",
+      "banco davivienda"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/americas/davivienda.svg"
   },
@@ -653,9 +837,12 @@
     "category": "bank",
     "region": "americas",
     "country": "CO",
-    "aliases": ["nequi", "nequi colombia"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "nequi",
+      "nequi colombia"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/americas/nequi.svg"
   },
@@ -665,9 +852,13 @@
     "category": "bank",
     "region": "americas",
     "country": "MX",
-    "aliases": ["bbva mexico", "bbva mx", "bancomer"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "bbva mexico",
+      "bbva mx",
+      "bancomer"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/americas/bbva-mx.svg"
   },
@@ -677,9 +868,12 @@
     "category": "bank",
     "region": "americas",
     "country": "CA",
-    "aliases": ["scotiabank", "bank of nova scotia"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "scotiabank",
+      "bank of nova scotia"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/americas/scotiabank.svg"
   },
@@ -689,9 +883,12 @@
     "category": "bank",
     "region": "asia",
     "country": "SG",
-    "aliases": ["dbs", "dbs bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "dbs",
+      "dbs bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/asia/dbs.svg"
   },
@@ -701,9 +898,12 @@
     "category": "bank",
     "region": "asia",
     "country": "SG",
-    "aliases": ["ocbc", "ocbc bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "ocbc",
+      "ocbc bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/asia/ocbc.svg"
   },
@@ -713,9 +913,12 @@
     "category": "bank",
     "region": "asia",
     "country": "SG",
-    "aliases": ["uob", "united overseas bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "uob",
+      "united overseas bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/asia/uob.svg"
   },
@@ -725,7 +928,10 @@
     "category": "bank",
     "region": "asia",
     "country": "IN",
-    "aliases": ["hdfc", "hdfc bank"],
+    "aliases": [
+      "hdfc",
+      "hdfc bank"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -737,7 +943,10 @@
     "category": "bank",
     "region": "asia",
     "country": "IN",
-    "aliases": ["icici", "icici bank"],
+    "aliases": [
+      "icici",
+      "icici bank"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -749,9 +958,12 @@
     "category": "bank",
     "region": "asia",
     "country": "IN",
-    "aliases": ["sbi", "state bank of india"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "sbi",
+      "state bank of india"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/asia/sbi.svg"
   },
@@ -761,9 +973,12 @@
     "category": "bank",
     "region": "asia",
     "country": "ID",
-    "aliases": ["bri", "bank rakyat indonesia"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "bri",
+      "bank rakyat indonesia"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/asia/bri.svg"
   },
@@ -773,9 +988,12 @@
     "category": "bank",
     "region": "asia",
     "country": "ID",
-    "aliases": ["bca", "bank central asia"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "bca",
+      "bank central asia"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/asia/bca.svg"
   },
@@ -785,9 +1003,12 @@
     "category": "bank",
     "region": "asia",
     "country": "ID",
-    "aliases": ["mandiri", "bank mandiri"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "mandiri",
+      "bank mandiri"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/asia/mandiri.svg"
   },
@@ -797,9 +1018,12 @@
     "category": "bank",
     "region": "asia",
     "country": "TH",
-    "aliases": ["bangkok bank", "bangkok-bank"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "bangkok bank",
+      "bangkok-bank"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "banks/asia/bangkok-bank.svg"
   },
@@ -809,9 +1033,12 @@
     "category": "wallet",
     "region": "asia",
     "country": "PH",
-    "aliases": ["gcash", "g cash"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "gcash",
+      "g cash"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "wallets/gcash.svg"
   },
@@ -821,9 +1048,13 @@
     "category": "wallet",
     "region": "asia",
     "country": "BD",
-    "aliases": ["bkash", "b-kash", "b cash"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "bkash",
+      "b-kash",
+      "b cash"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "wallets/bkash.svg"
   },
@@ -833,7 +1064,10 @@
     "category": "wallet",
     "region": "asia",
     "country": "IN",
-    "aliases": ["paytm", "paytm wallet"],
+    "aliases": [
+      "paytm",
+      "paytm wallet"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -845,7 +1079,11 @@
     "category": "wallet",
     "region": "asia",
     "country": "SG",
-    "aliases": ["grabpay", "grab pay", "grab"],
+    "aliases": [
+      "grabpay",
+      "grab pay",
+      "grab"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -857,7 +1095,10 @@
     "category": "card",
     "region": "global",
     "country": "US",
-    "aliases": ["visa", "visa card"],
+    "aliases": [
+      "visa",
+      "visa card"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -869,7 +1110,10 @@
     "category": "card",
     "region": "global",
     "country": "US",
-    "aliases": ["mastercard", "master card"],
+    "aliases": [
+      "mastercard",
+      "master card"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -881,7 +1125,10 @@
     "category": "card",
     "region": "global",
     "country": "US",
-    "aliases": ["amex", "american express"],
+    "aliases": [
+      "amex",
+      "american express"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -893,9 +1140,13 @@
     "category": "card",
     "region": "global",
     "country": "CN",
-    "aliases": ["unionpay", "union pay", "china unionpay"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "unionpay",
+      "union pay",
+      "china unionpay"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "cards/unionpay.svg"
   },
@@ -905,7 +1156,10 @@
     "category": "wallet",
     "region": "global",
     "country": "US",
-    "aliases": ["apple pay", "apple-pay"],
+    "aliases": [
+      "apple pay",
+      "apple-pay"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -917,7 +1171,11 @@
     "category": "wallet",
     "region": "global",
     "country": "US",
-    "aliases": ["google pay", "gpay", "google-pay"],
+    "aliases": [
+      "google pay",
+      "gpay",
+      "google-pay"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -929,7 +1187,10 @@
     "category": "wallet",
     "region": "global",
     "country": "US",
-    "aliases": ["paypal", "pay pal"],
+    "aliases": [
+      "paypal",
+      "pay pal"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -941,7 +1202,10 @@
     "category": "wallet",
     "region": "global",
     "country": "US",
-    "aliases": ["stripe", "stripe payments"],
+    "aliases": [
+      "stripe",
+      "stripe payments"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -953,7 +1217,10 @@
     "category": "wallet",
     "region": "global",
     "country": "SE",
-    "aliases": ["klarna", "klarna payments"],
+    "aliases": [
+      "klarna",
+      "klarna payments"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -965,7 +1232,11 @@
     "category": "wallet",
     "region": "global",
     "country": "AU",
-    "aliases": ["afterpay", "after pay", "clearpay"],
+    "aliases": [
+      "afterpay",
+      "after pay",
+      "clearpay"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -977,7 +1248,10 @@
     "category": "wallet",
     "region": "europe",
     "country": "GB",
-    "aliases": ["revolut", "revolut pay"],
+    "aliases": [
+      "revolut",
+      "revolut pay"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -989,7 +1263,10 @@
     "category": "wallet",
     "region": "europe",
     "country": "GB",
-    "aliases": ["wise", "transferwise"],
+    "aliases": [
+      "wise",
+      "transferwise"
+    ],
     "hasIcon": true,
     "hasFull": true,
     "hasDark": false,
@@ -1001,9 +1278,12 @@
     "category": "wallet",
     "region": "africa",
     "country": "NG",
-    "aliases": ["flutterwave", "flutter wave"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "flutterwave",
+      "flutter wave"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "wallets/flutterwave.svg"
   },
@@ -1013,9 +1293,12 @@
     "category": "wallet",
     "region": "africa",
     "country": "NG",
-    "aliases": ["paystack", "pay stack"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "paystack",
+      "pay stack"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "wallets/paystack.svg"
   },
@@ -1025,9 +1308,12 @@
     "category": "wallet",
     "region": "africa",
     "country": "ZA",
-    "aliases": ["ozow", "ozow payments"],
-    "hasIcon": true,
-    "hasFull": true,
+    "aliases": [
+      "ozow",
+      "ozow payments"
+    ],
+    "hasIcon": false,
+    "hasFull": false,
     "hasDark": false,
     "svgPath": "wallets/ozow.svg"
   }
