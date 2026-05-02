@@ -258,8 +258,6 @@ MIT © [aloahmilton](https://github.com/aloahmilton)
 Made  by [@aloahmilton](https://github.com/aloahmilton)
 
 </div>
-```
-
----
+ 
 
 
