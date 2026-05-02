@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aloahmilton/paybrand"
+    "url": "git+https://github.com/aloahmilton/paybrand.git"
   },
   "workspaces": [
     "packages/react"
