@@ -1,18 +1,8 @@
-import { PayLogo } from './PayLogo'
-import type { PayLogoName } from '../types'
+import { PayLogo, type PayLogoProps } from './PayLogo'
 
-interface BankLogoProps {
-  name: PayLogoName
-  size?: number
-  width?: number
-  height?: number
-  variant?: 'full' | 'icon'
-  theme?: 'light' | 'dark'
-  className?: string
-  style?: React.CSSProperties
-  title?: string
-}
+export type BankLogoProps = PayLogoProps
 
+/** Semantic wrapper around PayLogo for bank-focused UIs. */
 export function BankLogo(props: BankLogoProps) {
   return <PayLogo {...props} />
 }

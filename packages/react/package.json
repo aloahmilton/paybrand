@@ -1,6 +1,6 @@
 {
   "name": "paybrand",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React payment & bank logo library — Africa, Europe, Asia, Americas",
   "author": "aloahmilton",
   "license": "MIT",
@@ -8,6 +8,13 @@
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/types/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/types/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    }
+  },
   "files": ["dist", "svgs"],
   "keywords": [
     "payment",

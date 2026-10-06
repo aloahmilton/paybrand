@@ -1,5 +1,7 @@
 export { PayLogo } from './components/PayLogo'
+export type { PayLogoProps } from './components/PayLogo'
 export { BankLogo } from './components/BankLogo'
+export type { BankLogoProps } from './components/BankLogo'
 export { getLogoUrl } from './utils/getLogoUrl'
 export { getAllBanks } from './utils/getAllBanks'
 export { getByCountry } from './utils/getByCountry'

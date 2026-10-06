@@ -1,8 +1,16 @@
 import logos from '../../../core/logos.json'
-import type { LogoEntry } from '../types'
-import type { PayLogoName } from '../types'
+import type { LogoEntry, PayLogoName } from '../types'
 
-export function getLogoUrl(name: PayLogoName): string {
+/**
+ * Returns the CDN URL for a logo SVG when the asset is available.
+ * Returns `null` when the logo has no packaged SVG (hasIcon/hasFull are false).
+ */
+export function getLogoUrl(name: PayLogoName): string | null {
   const logo = (logos as LogoEntry[]).find((l) => l.id === name)
-  return `https://cdn.jsdelivr.net/npm/paybrand/svgs/${logo?.svgPath ?? `${name}.svg`}`
+
+  if (!logo || (!logo.hasIcon && !logo.hasFull)) {
+    return null
+  }
+
+  return `https://cdn.jsdelivr.net/npm/paybrand/svgs/${logo.svgPath}`
 }

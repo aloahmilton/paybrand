@@ -10,6 +10,8 @@ React components and SVG assets for payment, wallet, mobile money, and bank logo
 
 Most logo packages cover global cards and Western banks first. paybrand is built to make Africa, Asia, and Latin America first-class citizens too: M-Pesa, MTN MoMo, Wave, Orange Money, GCash, bKash, Paytm, Nubank, Nequi, Bancolombia, GTBank, Equity Bank, Capitec, Visa, Mastercard, Apple Pay, Stripe, PayPal, and more.
 
+> **Note:** The catalog currently includes ~86 typed entries. A subset has packaged SVG assets (imported from Simple Icons where exact matches exist). Use `getAvailableLogos()` for entries that currently render. Missing SVGs show a compact placeholder by default (or can be hidden with `hideIfMissing`).
+
 ## Installation
 
 ```sh
@@ -32,10 +34,10 @@ import { PayLogo } from 'paybrand'
 export default function CheckoutPage() {
   return (
     <div style={{ display: 'flex', gap: 12 }}>
-      <PayLogo name="mpesa" size={40} />
       <PayLogo name="visa" size={40} />
-      <PayLogo name="mtn-momo" size={40} />
-      <PayLogo name="gtbank" size={40} />
+      <PayLogo name="mastercard" size={40} />
+      <PayLogo name="orange-money" size={40} />
+      <PayLogo name="stripe" size={40} />
     </div>
   )
 }
@@ -49,12 +51,15 @@ export default function CheckoutPage() {
 import { PayLogo } from 'paybrand'
 
 <PayLogo
-  name="mpesa"
+  name="visa"
   size={32}
   variant="full"
   theme="light"
-  title="M-Pesa"
+  title="Visa"
 />
+
+{/* Hide completely when asset is not yet packaged */}
+<PayLogo name="mpesa" hideIfMissing />
 ```
 
 | Prop | Type | Default | Description |
@@ -68,6 +73,7 @@ import { PayLogo } from 'paybrand'
 | `className` | `string` | - | CSS class name |
 | `style` | `CSSProperties` | - | Inline styles |
 | `title` | `string` | auto | Accessibility label |
+| `hideIfMissing` | `boolean` | `false` | When true, render nothing if the SVG asset is missing |
 
 ### `BankLogo`
 
@@ -76,9 +82,9 @@ import { PayLogo } from 'paybrand'
 ```tsx
 import { BankLogo } from 'paybrand'
 
-<BankLogo name="gtbank" size={32} />
-<BankLogo name="equity-bank-ke" variant="icon" size={32} />
-<BankLogo name="capitec" size={32} />
+<BankLogo name="chase" size={32} />
+<BankLogo name="barclays" size={32} />
+<BankLogo name="nubank" size={32} />
 ```
 
 ## Utility Functions
@@ -96,23 +102,25 @@ import {
 ```
 
 ```ts
-const url = getLogoUrl('visa')
+const url = getLogoUrl('visa')           // string | null
 const banks = getAllBanks()
 const nigerian = getByCountry('NG')
 const african = getByRegion('africa')
 const wallets = getByCategory('wallet')
-const available = getAvailableLogos()
+const available = getAvailableLogos()    // only logos with SVG assets
 const results = searchLogos('mpesa')
 ```
+
+`getLogoUrl` returns `null` when the logo has no packaged SVG. Prefer `getAvailableLogos()` when you only want entries that currently render.
 
 ## CDN Usage
 
 SVGs are published with the npm package and can be loaded from jsDelivr:
 
 ```html
-<img src="https://cdn.jsdelivr.net/npm/paybrand/svgs/mobile-money/mpesa.svg" width="40" alt="M-Pesa" />
 <img src="https://cdn.jsdelivr.net/npm/paybrand/svgs/cards/visa.svg" width="40" alt="Visa" />
-<img src="https://cdn.jsdelivr.net/npm/paybrand/svgs/banks/africa/gtbank.svg" width="40" alt="GTBank" />
+<img src="https://cdn.jsdelivr.net/npm/paybrand/svgs/mobile-money/orange-money.svg" width="40" alt="Orange Money" />
+<img src="https://cdn.jsdelivr.net/npm/paybrand/svgs/banks/americas/chase.svg" width="40" alt="Chase" />
 ```
 
 ## Logo Coverage
@@ -153,7 +161,7 @@ npx tsc --noEmit
 
 ## Contributing
 
-Missing a logo? Add the SVG to `packages/core/svgs`, add or update the entry in `packages/core/logos.json`, update `PayLogoName` in `packages/react/src/types.ts`, and open a pull request.
+Missing a logo? Add the SVG to `packages/core/svgs`, add or update the entry in `packages/core/logos.json`, run `npm run logos:sync` and `npm run types:generate`, then open a pull request.
 
 Read the full [Contributing Guide](./CONTRIBUTING.md).
 
